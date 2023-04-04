@@ -2,7 +2,7 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://cctvs-id.pages.dev/</homePageLink>
+		<homePageLink>http://cctvs.id.test</homePageLink>
 		<apis>
 			<api name="WordPress" blogID="1" preferred="true" apiLink="https://cctvs-id.pages.dev/xmlrpc.php" />
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://cctvs-id.pages.dev/xmlrpc.php" />
