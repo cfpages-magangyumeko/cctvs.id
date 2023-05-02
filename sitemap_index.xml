@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://cctsvs.id/post-sitemap.xml</loc>
+		<loc>https://cctvs.id/post-sitemap.xml</loc>
 		<lastmod>2023-03-28T07:33:01+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctsvs.id/page-sitemap.xml</loc>
+		<loc>https://cctvs.id/page-sitemap.xml</loc>
 		<lastmod>2023-03-28T07:07:38+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctsvs.id/kota-sitemap1.xml</loc>
+		<loc>https://cctvs.id/kota-sitemap1.xml</loc>
 		<lastmod>2023-03-06T22:02:59+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctsvs.id/kota-sitemap2.xml</loc>
+		<loc>https://cctvs.id/kota-sitemap2.xml</loc>
 		<lastmod>2023-03-06T21:41:34+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctsvs.id/kota-sitemap3.xml</loc>
+		<loc>https://cctvs.id/kota-sitemap3.xml</loc>
 		<lastmod>2023-03-06T19:04:07+00:00</lastmod>
 
 </sitemapindex>
